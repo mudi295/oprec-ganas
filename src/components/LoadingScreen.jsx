@@ -1,0 +1,1 @@
+export default function LoadingScreen() { return <div className="fixed inset-0 z-[100] grid place-items-center bg-[#031521] text-white"><div className="text-center"><div className="mx-auto mb-5 h-10 w-10 animate-spin rounded-full border-2 border-blue-500/20 border-t-blue-400"/><p className="text-sm font-semibold tracking-wide">Menyiapkan pendaftaran...</p></div></div> }

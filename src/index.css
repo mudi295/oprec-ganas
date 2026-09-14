@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{font-family:Inter,sans-serif;background:#031521;color:#d3e5f6;font-synthesis:none;text-rendering:optimizeLegibility}html{background:#031521}body{margin:0;min-width:320px;background:#031521}button,input,textarea,select{font:inherit}::selection{background:#0566d9;color:#fff}.text-gradient{background:linear-gradient(100deg,#fff 0%,#b6c7e8 35%,#60a5fa 100%);-webkit-background-clip:text;background-clip:text;color:transparent}.grid-overlay{background-image:linear-gradient(rgba(211,229,246,.3) 1px,transparent 1px),linear-gradient(90deg,rgba(211,229,246,.3) 1px,transparent 1px);background-size:32px 32px}@media(max-width:640px){.grid-overlay{background-size:24px 24px}}
