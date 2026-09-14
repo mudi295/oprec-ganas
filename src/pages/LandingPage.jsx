@@ -12,7 +12,7 @@ export default function LandingPage({ onStart }) {
       <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(7,26,51,.93)_0%,rgba(3,21,33,.48)_45%,rgba(0,16,27,.97)_100%)]"/>
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(5,102,217,.25),transparent_68%)]"/>
       <div className="grid-overlay absolute inset-0 opacity-[.045]"/>
-      <div className="absolute left-5 top-5 z-10 rounded-full border border-white/10 bg-[#10212d]/65 px-4 py-2 text-[10px] font-bold uppercase tracking-[.18em] text-blue-200 backdrop-blur-xl lg:left-10">Siklus Resmi <span className="mx-2 text-slate-600">•</span> GEN 2026/2027</div>
+      
       
       <div className="relative z-10 mx-auto max-w-5xl px-5 text-center lg:px-10">
         <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-blue-400/20 bg-[#071a33]/80 px-4 py-2 text-[10px] font-bold uppercase tracking-[.18em] text-blue-200 shadow-[0_0_30px_rgba(59,130,246,.12)] backdrop-blur-xl"><i className="relative h-2 w-2 rounded-full bg-blue-400"><i className="absolute inset-0 animate-ping rounded-full bg-blue-400"/></i> Open Recruitment 2026–2027</div>
